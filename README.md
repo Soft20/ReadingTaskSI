@@ -1,5 +1,11 @@
 # Architectural Styles and the Design of Network-based Software Architectures - Roy Fielding
 
+**Group members:**  
+Rasmus Helsgaun,
+Adam Lass,
+Stephan Djurhuus &
+Pernille Lørup
+
 _In year 2000, the software engineer and researcher Roy Fielding (https://roy.gbiv.com/) published his PhD thesis (https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm), entitled Architectural Styles and the Design of Network-based Software Architectures, in which he introduced and defined the concept behind the now so popular abbreviation REST._
 
 **1. What exactly is REST? How does the context of it fits to the title of the dissertation?**
