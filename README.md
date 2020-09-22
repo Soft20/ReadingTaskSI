@@ -14,6 +14,7 @@ In regards of the title of the dissertation REST is a hybrid style derived from 
 With this dissertation he created a standard so any server could talk to any other server in the world with a set of principles, propterties and constraints that are now called REST.<br/>
 As the successor for SOAP, REST is a more flexible architecture. It allows different messaging formats, such as HTML, JSON, XML, and plain text, while SOAP only allows XML. Because of its lightweight architecture, REST has a better performance which is very important today where response time can matter a lot.
 <br/>
+<br/>
 ![SOAP vs REST](SOAPvsREST.png)
 <br/>
 
